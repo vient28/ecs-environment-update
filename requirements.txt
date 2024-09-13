@@ -1,0 +1,2 @@
+boto3==1.26.5  # For AWS SDK
+requests==2.28.1  # For HTTP requests
