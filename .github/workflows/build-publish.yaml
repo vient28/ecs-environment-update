@@ -3,7 +3,7 @@ name: Build Docker Images
 on:
   push:
     branches:
-      - update
+      - main
     tags:
       - 'v*'
   pull_request:
